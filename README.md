@@ -19,5 +19,5 @@ This Repo consists of data-structures and algorithms sorted by programming langu
 2. Make your changes on your forked repo.
 3. Make Pull Request to master and enjoy.
 
-Hack on!
-God Speed
+ Hack on!
+ God Speed
